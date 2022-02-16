@@ -33,4 +33,5 @@ source: "https://todayilearned.jm3.net/learnings/hugo-shortcode-for-giphy-embeds
 
 ---
 
-_[Source](https://todayilearned.jm3.net/learnings/hugo-shortcode-for-giphy-embeds/)_
+- _[Source](https://todayilearned.jm3.net/learnings/hugo-shortcode-for-giphy-embeds/)_
+- _[Source](https://github.com/santosh/hugo-shortcodes/blob/master/layouts/shortcodes/giphy.html)_
