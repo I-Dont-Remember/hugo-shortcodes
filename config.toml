@@ -23,3 +23,7 @@ enableRobotsTXT = true
 
 [taxonomies]
    tag = "tags"
+
+[params]
+  geekdocRepo = "https://github.com/I-Dont-Remember/hugo-shortcodes/"
+  geekdocEditPath = "edit/main/content/"

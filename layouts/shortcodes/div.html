@@ -1,0 +1,9 @@
+<div
+{{- if .IsNamedParams -}}
+    {{ if .Get `class` }} class="{{ .Get `class` }}"{{ end }}
+    {{ if .Get `style` }} style="{{ .Get `style` }}"{{ end }}
+{{- else -}}
+    {{ if .Get 0 }} class="{{ .Get 0 }}"{{ end }}
+{{- end -}}>
+    {{ .Inner | markdownify }}
+</div>

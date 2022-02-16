@@ -1,0 +1,5 @@
+header:
+  - name: GitHub
+    ref: https://github.com/I-Dont-Remember/hugo-shortcodes/
+    icon: gdoc_github
+    external: true

@@ -11,3 +11,4 @@ Contributions💻 or edits ✍ welcome, I am by no means a Hugo expert.
 ## Handy links
 
 - {{< new_tab_link title="Hugo Docs" url="https://gohugo.io/content-management/shortcodes/" >}}
+- [This repo's shortcodes directory, for easy downloading of files](https://github.com/I-Dont-Remember/hugo-shortcodes/tree/main/layouts/shortcodes)
