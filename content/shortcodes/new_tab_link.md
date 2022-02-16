@@ -18,7 +18,7 @@ source: "https://codingnconcepts.com/hugo/custom-shortcode-hugo/"
 
 ```
 # new_tab_link.html
-<a href="{{ .Get "url" }}" target="_blank">{{ with .Get "title" }}{{.}}{{else}}{{.Get "url"}}{{end}}</a>
+{{< read_file_contents path="/layouts/shortcodes/new_tab_link.html" >}}
 ```
 
 ## Sample

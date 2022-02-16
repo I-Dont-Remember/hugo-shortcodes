@@ -19,9 +19,7 @@ Content of the page.
 
 ```
 # toc.html
-<div class="toc">
-  {{ .Page.TableOfContents }}
-</div>
+{{< read_file_contents path="/layouts/shortcodes/toc.html" >}}
 ```
 
 ## Sample

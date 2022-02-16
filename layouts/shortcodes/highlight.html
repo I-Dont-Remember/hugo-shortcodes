@@ -1,0 +1,5 @@
+{{ $color := "#FFFF00" }}
+{{ with .Get "color" }}
+    {{ $color = . }}    
+{{ end }}
+<mark style="background-color: {{ $color }}">{{ with .Get "text" }}{{.}}{{end}}</mark>

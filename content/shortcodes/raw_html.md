@@ -22,8 +22,8 @@ source: ""
 ## Shortcode
 
 ```
-<!-- raw html -->
-{{ .Inner }}
+# raw_html.html
+{{< read_file_contents path="/layouts/shortcodes/raw_html.html" >}}
 ```
 
 ## Sample

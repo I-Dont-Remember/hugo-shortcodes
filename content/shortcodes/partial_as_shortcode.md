@@ -15,7 +15,7 @@ source: ""
 ## Shortcode
 
 ```
-{{ partial (.Get 0) }}
+{{< read_file_contents path="/layouts/shortcodes/partial.html" >}}
 ```
 
 ## Sample

@@ -1,0 +1,22 @@
+<!-- Simple no CSS framework elements https://www.w3schools.com/howto/howto_js_progressbar.asp -->
+<style>
+    #myProgress {
+        width: 100%;
+        background-color: #ddd;
+    }
+
+    #myBar {
+        width: {{.Get "percent"}}%;
+        height: 30px;
+        background-color: #04AA6D;
+        text-align: center;
+        line-height: 30px;
+        color: white;
+    }
+</style>
+<script>
+
+</script>
+<div id="myProgress">
+    <div id="myBar">{{ with .Get "label"}}{{ . }}{{ end }}</div>
+</div>
