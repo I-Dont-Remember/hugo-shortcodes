@@ -1,6 +1,6 @@
 # hugo-shortcodes
 
-[Website](hugoshortcodes.netlify.app/)
+[Website](https://hugoshortcodes.netlify.app/)
 
 Pulling together all the handy shortcodes I've run into across the web in one easy place.
 
