@@ -5,6 +5,8 @@ draft: true
 source: ""
 ---
 
+A Hugo shortcode to add a floating tooltip to inlined text.
+
 ## How to use
 
 ```

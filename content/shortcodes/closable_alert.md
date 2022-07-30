@@ -5,6 +5,8 @@ draft: false
 source: ""
 ---
 
+A Hugo shortcode to create alerts that begin popped out on page load, but can be closed by the user.
+
 ## How to use
 
 ```

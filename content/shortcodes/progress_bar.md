@@ -5,6 +5,8 @@ draft: false
 source: ""
 ---
 
+A Hugo shortcode to display a simple progress bar.
+
 ## How to use
 
 ```

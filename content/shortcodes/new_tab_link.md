@@ -5,6 +5,8 @@ draft: false
 source: "https://codingnconcepts.com/hugo/custom-shortcode-hugo/"
 ---
 
+A Hugo shortcode to create new tab links with `target="_blank"` on the `<a >` tag.
+
 ## How to use
 
 ```

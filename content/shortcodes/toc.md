@@ -5,6 +5,8 @@ draft: false
 source: "https://ruddra.com/hugo-add-toc-anywhere/"
 ---
 
+A Hugo shortcode to display the [Hugo Table of Contents](https://gohugo.io/content-management/toc/) on your Markdown pages.
+
 ## How to use
 
 ```

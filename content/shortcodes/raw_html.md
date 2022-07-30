@@ -5,6 +5,8 @@ draft: false
 source: ""
 ---
 
+A Hugo shortcode to write raw HTML in your Markdown files.
+
 ## How to use
 
 ```

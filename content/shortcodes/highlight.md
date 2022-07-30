@@ -5,6 +5,8 @@ draft: false
 source: "https://codingnconcepts.com/hugo/custom-shortcode-hugo/#highlighter"
 ---
 
+A Hugo shortcode to highlight short snippets of text.
+
 ## How to use
 
 ```

@@ -5,7 +5,7 @@ draft: false
 source: "https://jimfrenette.com/hugo/shortcodes/"
 ---
 
-Wrap elements in a div and apply specific classes or a style property to it.
+A Hugo shortcode to wrap elements in a div and apply specific classes or a style property to it. Useful as a building block.
 
 ## How to use
 

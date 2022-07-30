@@ -5,6 +5,8 @@ draft: false
 source: "https://todayilearned.jm3.net/learnings/hugo-shortcode-for-giphy-embeds/"
 ---
 
+A Hugo shortcode to embed Giphy gifs.
+
 ## How to use
 
 ```

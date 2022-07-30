@@ -5,11 +5,13 @@ draft: false
 source: ""
 ---
 
+A Hugo shortcode to use a [Hugo partial](https://gohugo.io/templates/partials/) from Markdown pages.
+
 ## How to use
 
 ```
 # file.md
-{{</* partial "spotify_button.html" */>}}
+{{</* partial "partial.html" */>}}
 ```
 
 ## Shortcode

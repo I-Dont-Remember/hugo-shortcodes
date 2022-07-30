@@ -5,7 +5,7 @@ draft: false
 source: ""
 ---
 
-Read in the contents of any file in your source repo. Fun fact, created because of this repo! I wanted a way to showcase the shortcodes on the page, but not worry about the displayed content and the actual shortcode getting out of sync!
+A Hugo shortcode to read in the contents of any file in your source repo. Fun fact, created because of this repo! I wanted a way to showcase the shortcodes on the page, but not worry about the displayed content and the actual shortcode getting out of sync!
 
 - [os.readFile docs](https://gohugo.io/functions/readfile/)
 - [Hugo Functions for more ideas like this](https://gohugo.io/functions/)

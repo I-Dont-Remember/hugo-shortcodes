@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Hugo Shortcodes"
+title = "Hugo Shortcodes Library"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false

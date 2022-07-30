@@ -5,7 +5,7 @@ draft: false
 source: ""
 ---
 
-Notion-style callout blocks.
+A Hugo shortcode to create Notion-style callout blocks.
 
 ## How to use
 
