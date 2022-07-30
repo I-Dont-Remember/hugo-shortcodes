@@ -10,7 +10,7 @@ The majority of the shortcodes should be plug n play. As I add new shortcodes, I
 
 Inspired by {{< new_tab_link title="UseHooks" url="https://usehooks.com" >}} and comments like these matching my thoughts on the matter - [_"...i need is a pool of shortcodes to “steal” from"_](https://discourse.gohugo.io/t/table-in-markdown/11434/7).
 
-Contributions💻 or edits ✍ welcome, I am by no means a Hugo expert.
+[Contributions💻, feedback 🗣️, or issues 🙊](https://github.com/I-Dont-Remember/hugo-shortcodes) are welcome, I am by no means a Hugo expert.
 
 ## Handy links
 
