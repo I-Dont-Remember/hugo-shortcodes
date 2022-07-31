@@ -1,4 +1,4 @@
-baseURL = "https://hugoshortcodes.netlify.app/"
+baseURL = "https://hugoshortcodes.netlify.app"
 title = "Hugo Shortcodes Library"
 theme = "hugo-geekdoc"
 
@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 disablePathToLower = true
 
 # Required if you want to render robots.txt template
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Needed for mermaid shortcodes
 [markup]
