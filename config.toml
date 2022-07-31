@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://hugoshortcodes.netlify.app/"
 title = "Hugo Shortcodes Library"
 theme = "hugo-geekdoc"
 
