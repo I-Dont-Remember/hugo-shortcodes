@@ -15,4 +15,6 @@ Inspired by {{< new_tab_link title="UseHooks" url="https://usehooks.com" >}} and
 ## Handy links
 
 - {{< new_tab_link title="Hugo Docs" url="https://gohugo.io/content-management/shortcodes/" >}}
+- More great Hugo resources - {{< new_tab_link title="Awesome Hugo" url="https://www.awesome-hugo.dev/" >}}
+- {{< new_tab_link title="Create rich HTML-based presentations with Hugo and Reveal.js" url="https://github.com/dzello/reveal-hugo" >}}
 - [This repo's shortcodes directory, for easy downloading of files](https://github.com/I-Dont-Remember/hugo-shortcodes/tree/main/layouts/shortcodes)
